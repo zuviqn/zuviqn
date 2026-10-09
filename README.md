@@ -21,5 +21,6 @@
 
 ### Contact me (For some reason)
 Discord: **cranching**
+
 Mail: **grime@tutamail.com**
 
