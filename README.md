@@ -24,3 +24,4 @@ Discord: **cranching**
 
 Mail: **grime@tutamail.com**
 
+&exclude_repo=4chan
