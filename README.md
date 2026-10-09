@@ -8,7 +8,7 @@
 - Currently Learning: **Linux Internals & Networking**
 - Daily Driver: **Arch Linux**
 - Ask me about: **Linux tooling, shell automation, or embedded systems**
-
+- Experience with: Linux, Web Servers, Programming
 ---
 
 ### GitHub Stats
@@ -23,5 +23,3 @@
 Discord: **cranching**
 
 Mail: **grime@tutamail.com**
-
-&exclude_repo=4chan
