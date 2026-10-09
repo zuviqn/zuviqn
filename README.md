@@ -5,10 +5,10 @@
 </p>
 
 ### About Me
-- Currently Learning: **Linux Internals & Networking**
+- Currently Learning: **Linux/POSIX & Networking**
 - Daily Driver: **Arch Linux**
 - Ask me about: **Linux tooling, shell automation, or embedded systems**
-- Experience with: Linux, Web Servers, Programming
+- Experience with: Linux, Web Servers, Systems programming
 ---
 
 ### GitHub Stats
