@@ -19,7 +19,7 @@
 
 ---
 
-### Contact me (For some reason)
+### Contact me
 Discord: **cranching**
 
 Mail: **grime@tutamail.com**
